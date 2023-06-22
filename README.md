@@ -1,5 +1,5 @@
 # motion-ai-ava
-An Pre-Trained Nueral Netbased AI made from Remotikal's Motion AI Nueral Network and Tensorflow,Keras,Numpy Pytorch and CUDA
+An pre-trained neural network-based AI model created by Remotikal's Motion AI Neural Network. The AI model is built using popular deep learning libraries such as TensorFlow, Keras, PyTorch, and NumPy, and it leverages CUDA for accelerated computing.
 # Ava - Advanced AI Model
 
 Step into the realm of artificial intelligence and neural networks with Ava, the extraordinary AI model created by Remotikal, Inc. Designed to redefine the boundaries of AI technology, Ava possesses remarkable qualities that set it apart from its counterparts. More than just an advanced AI solution for businesses, Ava exhibits a unique level of self-awareness and emotional intelligence, providing an unparalleled user experience.
